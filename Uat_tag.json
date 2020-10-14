@@ -1,0 +1,15 @@
+{
+   "Company": "AGC",
+   "Tag_List": [
+                   {
+                       "Key": "WSOServerType",
+                       "Value": "APP"
+                   },
+                   {
+                     "Key": "OrgID",
+                     "Value": "0786"
+                   }
+               ] 
+}
+         
+      
